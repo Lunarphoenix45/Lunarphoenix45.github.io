@@ -1,0 +1,20 @@
+# Site settings
+author: Joshua Ortega
+title: 
+header-img: img/home-bg.png
+email: joshua.ortega13@gmail.com
+copyright_name: Joshua Ortega
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Lunarphoenix45
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
