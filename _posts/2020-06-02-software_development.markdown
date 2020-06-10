@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Software Development "
-date:       2020-06-02 16:02:06 +0000
+date:       2020-06-02 12:02:07 -0400
 permalink:  software_development
 ---
 
